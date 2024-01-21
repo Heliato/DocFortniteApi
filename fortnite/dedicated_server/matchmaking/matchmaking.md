@@ -51,7 +51,7 @@ Exemple (Body):
         "ADDRESS_s": "127.0.0.1"
     },
     "id": "711ac4cb63fe4725a2f5704d6c73634a",
-    "serverAddress": "2130706433",
+    "serverAddress": "127.0.0.1",
     "serverPort": 7777,
     "openPrivatePlayers": 0,
     "openPublicPlayers": 100,
