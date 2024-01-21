@@ -1,4 +1,4 @@
-# - Get Profile For Client
+# - Get Profile For Server
 
 ## REQUEST
 | Title           | Body                                                                                                                           |         
